@@ -29,9 +29,3 @@ For this project I have made a short YouTube video linking musical artists digit
 - 2022-11-29 Forked from Dr. K
 
 <br>
-
-## TODO
-
-- Complete powerpoint presentation for class
-
-- Finish first draft of script to send to Dr. K
