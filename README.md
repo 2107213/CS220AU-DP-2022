@@ -26,6 +26,14 @@ How to use this GitHub repository as a template for your submission, including h
 
 ## Log
 
+- 2023-01-15 Uploaded YouTube video as unlisted on channel
+
+- 2022-12-25 Completed editing of YouTube video
+
+- 2022-12-20 Recorded video to be uploaded onto YouTube
+
+- 2022-12-14 Completed script for video
+
 - 2022-12-05 Completed Powerpoint for class presentation
 
 - 2022-11-29 Script started for video project
