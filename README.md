@@ -1,29 +1,14 @@
 # Can Hip-Hop Artists use their Digital Profiles to have a Positive Effect on Existential Risks?
 ## How can you interract with the internet?
-When you interract with the internet you will have a digitil identity. Your digital identity can be organised into personal, instititional/professional, vistor, and resisdant. However your digital identity on a particular website does not necessarily have to be exclusive to one of these. A good way of visualising your digital identities is through a Virtual Residence Map, as shown below
-You can find [this video here](https://www.youtube.com/watch?v=3Rc3prHHmiA&ab_channel=HIL) assignment in 2022. It demonstrates minimalistic ideas for 
+When you interract with the internet you will have a digital identity. Your digital identity can be organised into personal, instititional/professional, vistor, and resisdant. However your digital identity on a particular website does not necessarily have to be exclusive to one of these. A good way of visualising your digital identities is through a Virtual Residence Map, as shown below
 
-- project management
-- web hosting with [GitHub Pages](https://pages.github.com/) 
-- web-design with [Markdown language](https://guides.github.com/features/mastering-markdown/) and
-- evaluation with the `assessment.md` and the `dp-checklist.md` files. 
 
-The URL of the website can be found in the sidebar, under 'About'. The homepage uses the information in the `index.md` file.
 
-<br>
 
-## Portfolio items
-The portfolio you submit needs to contain the following:
 
-1. **website** (80% of your overall mark) exploring the theme given.
-2. **self-and peer-assessment** (10% of your overall mark) using the marking rubric in the `assessment.md` file.
-3. **portfolio overview** (10% of your overall mark) providing a succinct overview of your portfolio, an outline of completed tasks (Log) and tasks to do (TODO) in this `README.md` file.
+For this project I have made a short YouTube video linking musical artists digital profiles to existential risks, and if they can use their digital profiles to have a positive effect on existential risks. In this project I also delve into specific songs by hip-hop artists and how through their art they try to tackle existential risks such as systematic racism, and racism as a whole. You can find [this video here](https://www.youtube.com/watch?v=3Rc3prHHmiA&ab_channel=HIL).
 
-After you finish these items, complete the `dp-checklist.md` file, download it and submit it on FASER. (Please keep this file in your repository as well after submitting.) In essence, you need to submit only one file on FASER, this `dp-checklist.md`. 
 
-How to use this GitHub repository as a template for your submission, including how to submit your files on FASER is demonstrated in class. If anything is unclear, ask for clarification. 
-
-<br>
 
 ## Log
 
