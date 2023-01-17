@@ -1,6 +1,6 @@
 # Can Hip-Hop Artists use their Digital Profiles to have a Positive Effect on Existential Risks?
-## Overview
-This GitHub repository is the template for the 
+## How can you interract with the internet?
+When you interract with the internet you will have a digitil identity. Your digital identity can be organised into personal, instititional/professional, vistor, and resisdant. However your digital identity on a particular website does not necessarily have to be exclusive to one of these. A good way of visualising your digital identities is through a Virtual Residence Map, as shown below
 You can find [this video here](https://www.youtube.com/watch?v=3Rc3prHHmiA&ab_channel=HIL) assignment in 2022. It demonstrates minimalistic ideas for 
 
 - project management
