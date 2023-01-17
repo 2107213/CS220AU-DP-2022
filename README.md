@@ -1,6 +1,7 @@
 # Can Hip-Hop Artists use their Digital Profiles to have a Positive Effect on Existential Risks?
 ## Overview
-This GitHub repository is the template for the [CS220AU](https://github.com/khofstadter/CS220AU) assignment in 2022. It demonstrates minimalistic ideas for 
+This GitHub repository is the template for the 
+You can find [this video here](https://www.youtube.com/watch?v=3Rc3prHHmiA&ab_channel=HIL) assignment in 2022. It demonstrates minimalistic ideas for 
 
 - project management
 - web hosting with [GitHub Pages](https://pages.github.com/) 
