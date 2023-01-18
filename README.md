@@ -2,7 +2,7 @@
 ## How can you interract with the internet?
 When you interract with the internet you will have a digital identity. Your digital identity can be organised into personal, instititional/professional, vistor, and resisdant. However your digital identity on a particular website does not necessarily have to be exclusive to one of these. A good way of visualising your digital identities is through a Virtual Residence Map, as shown below
 
-
+<img src = "vr-map-2022.png">
 
 
 
