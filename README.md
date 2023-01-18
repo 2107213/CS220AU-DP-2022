@@ -23,6 +23,14 @@ The portfolio contains:
 
 ## Log
 
+- 2023-01-18 Completed checklist in dp-checklist.md
+
+- 2023-01-18 Completed self assessment in assessment.md
+
+- 2023-01-18 Added hyperlink to Log linking to Powerpoint used for my class presentation
+
+- 2023-01-18 Added image to assets/img folder and added image to website
+
 - 2023-01-15 Uploaded YouTube video as unlisted on channel
 
 - 2022-12-25 Completed editing of YouTube video
