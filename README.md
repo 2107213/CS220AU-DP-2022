@@ -31,7 +31,7 @@ The portfolio contains:
 
 - 2022-12-14 Completed script for video
 
-- 2022-12-05 Completed Powerpoint for class presentation
+- 2022-12-05 Completed [Powerpoint](https://essexuniversity-my.sharepoint.com/:p:/g/personal/gc21675_essex_ac_uk/EV4J1X3p15RAle_WRvor1wIBvwz2cx11ZIJhC6CwL7qzHw?e=YWJTb1) for class presentation
 
 - 2022-11-29 Script started for video project
 
