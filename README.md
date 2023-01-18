@@ -16,7 +16,7 @@ The portfolio contains:
 
 1. **website** exploring the theme given with a short video documentary.
 2. **self-and peer-assessment** using the marking rubric in the `assessment.md` file.
-3. **portfolio overview** (10% of your overall mark) providing a succinct overview of your portfolio, an outline of completed tasks (Log) in this `README.md` file.
+3. **portfolio overview** providing a succinct overview of your portfolio, an outline of completed tasks (Log) in this `README.md` file.
 
 
 
