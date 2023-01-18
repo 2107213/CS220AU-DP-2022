@@ -12,11 +12,11 @@ The URL of the website can be found in the sidebar, under 'About'. The homepage 
 <br>
 
 ## Portfolio items
-The portfolio you submit needs to contain the following:
+The portfolio contains:
 
-1. **website** (80% of your overall mark) exploring the theme given.
-2. **self-and peer-assessment** (10% of your overall mark) using the marking rubric in the `assessment.md` file.
-3. **portfolio overview** (10% of your overall mark) providing a succinct overview of your portfolio, an outline of completed tasks (Log) and tasks to do (TODO) in this `README.md` file.
+1. **website** exploring the theme given with a short video documentary.
+2. **self-and peer-assessment** using the marking rubric in the `assessment.md` file.
+3. **portfolio overview** (10% of your overall mark) providing a succinct overview of your portfolio, an outline of completed tasks (Log) in this `README.md` file.
 
 
 
