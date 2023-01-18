@@ -1,27 +1,9 @@
-# Title
+# Can Hip-Hop Artists use their Digital Profiles to have a Positive Effect on Existential Risks?
+## How can you interract with the internet?
+When you interract with the internet you will have a digital identity. Your digital identity can be organised into personal, instititional/professional, vistor, and resisdant. However your digital identity on a particular website does not necessarily have to be exclusive to one of these. A good way of visualising your digital identities is through a Virtual Residence Map, as shown below
 
-Use [Markdown language](https://guides.github.com/features/mastering-markdown/) to add information to your website. 
+![VR MAP 2023](assets/img/vr-map-2022.png)
 
-## Hyperlinks
-[This](dp-checklist.md) is an internal link to another page on your site. 
+For this project I have made a short YouTube video linking musical artists digital profiles to existential risks, and if they can use their digital profiles to have a positive effect on existential risks. In this project I also delve into specific songs by hip-hop artists and how through their art they try to tackle existential risks such as systematic racism, and racism as a whole. You can find this video here.
 
-And [this](https://duckduckgo.com/?q=existential+risks&t=brave&ia=web&iai=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdzlxU3g7hUY) is an external link to web page on another website. 
-
-## Embedding images
-Below you see an example of embedding an image that is found in this repository's assets/img folder: 
-
-![Plain VR map](assets/img/vr-map-plain.svg)
-
-Below you see an example of embedding an image that is found in another repository:
-
-![](https://khofstadter.com/assets/img/2005-04-01-khofstadter-painting-chien.jpg). 
-
-## Embedding video players
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lfPJ7Tz4JGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## More examples
-
-Make sure you check out the [Markdown language](https://guides.github.com/features/mastering-markdown/) guide. 
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3Rc3prHHmiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
