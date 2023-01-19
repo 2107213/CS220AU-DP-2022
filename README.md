@@ -15,7 +15,7 @@ The URL of the website can be found in the sidebar, under 'About'. The homepage 
 The portfolio contains:
 
 1. **website** exploring the theme given with a short video documentary.
-2. **self-and peer-assessment** using the marking rubric in the `assessment.md` file. Unfortunately I did not get the chance to peer assess or have my work peer assessed as I was late joining the class due to a family emergency, however I have managed to explain my ideas for my project and received advice on how it should be completed. I have done the same for others in the class.
+2. **self-assessment** using the marking rubric in the `assessment.md` file. Unfortunately I did not get the chance to peer assess or have my work peer assessed as I was late joining the class due to a family emergency, however I have managed to explain my ideas for my project and received advice on how it should be completed. I have done the same for others in the class.
 3. **portfolio overview** providing a succinct overview of your portfolio, an outline of completed tasks (Log) in this `README.md` file.
 
 
